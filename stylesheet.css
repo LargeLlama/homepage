@@ -8,3 +8,18 @@ p
     font-family: "Courier New", Courier, monospace;
     text-align: center;
 }
+
+a:link
+{
+    color: maroon;
+}
+
+a:visited
+{
+    color: red;
+}
+
+a:hover
+{
+    color: lime;
+}
